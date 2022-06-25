@@ -3,7 +3,7 @@
 [![License Badge](https://img.shields.io/badge/license-LINUX-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![HitCount](http://hits.dwyl.io/lordemonk70/wifimaster.svg)](http://hits.dwyl.io/lordemonk70/wifimaster)
+[![HitCount](http://hits.dwyl.io/SIGEIV/wifimaster.svg)](http://hits.dwyl.io/SIGEIV/wifimaster)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 A tool to monitor, analyze and limit the bandwidth (upload/download) of devices on your local network without physical or administrative access.<br>
@@ -21,12 +21,12 @@ Possibly missing python packages will be installed during the installation proce
 ## Installation
 
 ```bash
-git clone https://github.com/lordemonk70/wifimaster.git
+git clone https://github.com/SIGEIV/wifimaster.git
 cd wifimaster
 sudo python3 setup.py install
 ```
 
-Alternatively, you can download a desired version from the [Release page](https://github.com/lordemonk70/wifimaster/releases).<br>
+Alternatively, you can download a desired version from the [Release page](https://github.com/SIGEIV/wifimaster/releases).<br>
 
 ## Usage
 
